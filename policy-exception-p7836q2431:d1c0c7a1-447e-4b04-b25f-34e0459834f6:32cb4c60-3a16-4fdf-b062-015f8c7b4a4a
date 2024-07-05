@@ -1,0 +1,1 @@
+{"policyName":"restrict-automount-sa-token","ruleNames":["validate-automountServiceAccountToken"],"namespace":"","policyRef":"","policyUID":"","kind":""}
