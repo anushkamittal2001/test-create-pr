@@ -1,1 +1,0 @@
-{"policyName":"disallow-capabilities-strict","ruleNames":["require-drop-all","adding-capabilities-strict","autogen-require-drop-all","autogen-cronjob-require-drop-all","autogen-adding-capabilities-strict","autogen-cronjob-adding-capabilities-strict"],"namespace":"","policyRef":"","policyUID":"","kind":""}

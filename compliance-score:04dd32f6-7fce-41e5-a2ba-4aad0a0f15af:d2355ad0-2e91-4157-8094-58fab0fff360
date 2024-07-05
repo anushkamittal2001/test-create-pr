@@ -1,0 +1,1 @@
+{"policyName":"disallow-privileged-containers","ruleNames":["privileged-containers","autogen-privileged-containers","autogen-cronjob-privileged-containers"],"namespace":"","policyRef":"","policyUID":"","kind":""}
