@@ -1,1 +1,0 @@
-{"policyName":"restrict-seccomp-strict","ruleNames":["check-seccomp-strict"],"namespace":"","policyRef":"","policyUID":"","kind":""}
