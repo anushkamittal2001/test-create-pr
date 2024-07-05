@@ -1,0 +1,1 @@
+{"policyName":"disallow-latest-tag-custom","ruleNames":["validate-image-tag"],"namespace":"","policyRef":"","policyUID":"","kind":""}
