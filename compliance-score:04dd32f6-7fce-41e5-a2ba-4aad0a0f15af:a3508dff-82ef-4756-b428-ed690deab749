@@ -1,0 +1,1 @@
+{"policyName":"disallow-host-namespaces","ruleNames":["host-namespaces","autogen-host-namespaces","autogen-cronjob-host-namespaces"],"namespace":"","policyRef":"","policyUID":"","kind":""}
