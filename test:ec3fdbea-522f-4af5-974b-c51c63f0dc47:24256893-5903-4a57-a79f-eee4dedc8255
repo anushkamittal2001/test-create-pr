@@ -1,0 +1,1 @@
+{"policyName":"disallow-host-process","ruleNames":["host-process-containers","autogen-host-process-containers","autogen-cronjob-host-process-containers"],"namespace":"","policyRef":"","policyUID":"","kind":""}
