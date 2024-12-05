@@ -1,0 +1,1 @@
+{"policyName":"require-ro-rootfs","ruleNames":["validate-readOnlyRootFilesystem"],"namespace":"","policyRef":"","policyUID":"","kind":""}
